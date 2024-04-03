@@ -1,7 +1,9 @@
 # Digital-Art-Gallery-and-Marketplace
 
 Digital Art Gallery and Marketplace
+
 About
+
 The Digital Art Gallery and Marketplace is an online platform that empowers digital artists to exhibit and sell their creations. It nurtures the growth of emerging talent in the digital art community by providing seamless integration with Google accounts for authentication, ensuring a user-friendly experience for both artists and art enthusiasts.
 
 Author
