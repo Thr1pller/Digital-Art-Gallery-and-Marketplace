@@ -52,11 +52,87 @@ To begin, users will register or sign in using their Google account. From there,
 
 Project Task Decomposition
 
-Week 1 (02/27 - 03/06):
-
 Week 1:
   - Implement feature: User Registration with Google OAuth 2.0
   - Set up Azure environment for project deployment
   - Create basic project structure on Github repository
   - Draft initial version of Getting Started documentation
   - Define initial database schema for user accounts and artwork listings
+
+Week 2:
+  - Implement feature: Artwork Showcase page
+  - Configure Continuous Integration/Continuous Delivery pipeline
+  - Refine project architecture and infrastructure diagram
+  - Finalize documentation for project tasks decomposition
+  - Begin writing unit tests for user authentication functionality
+
+Week 3:
+  - Implement feature: Artwork Marketplace
+  - Deploy project to Azure and ensure proper functionality
+  - Enhance Getting Started documentation with installation instructions
+  - Conduct initial testing of user registration and login endpoints
+  - Refactor code for improved readability and maintainability
+
+Week 4:
+  - Implement feature: User Profile Management
+  - Integrate email notification system for user registration and password reset
+  - Update project documentation with detailed API endpoints description
+  - Conduct unit tests for user profile management endpoints
+  - Address any bugs or issues identified during testing phase
+
+Week 5:
+  - Implement feature: Artwork Upload functionality
+  - Fine-tune user interface for profile management pages
+  - Expand unit test coverage to include artwork upload endpoints
+  - Review and optimize database queries for improved performance
+  - Prepare for Postman collection creation for comprehensive API testing
+
+Week 6:
+  - Implement feature: Search and Filter functionality
+  - Enhance user experience with interactive search features
+  - Create Postman collection for testing API endpoints
+  - Conduct thorough testing of search and filter functionalities
+  - Document troubleshooting steps for common deployment issues
+
+Week 7:
+  - Implement feature: Shopping Cart functionality
+  - Integrate shopping cart with checkout process
+  - Conduct user acceptance testing on shopping cart and checkout flow
+  - Analyze and optimize frontend performance for faster load times
+  - Update documentation with troubleshooting tips and FAQs
+
+Week 8:
+  - Implement feature: Notification System
+  - Develop notification preferences settings for users
+  - Test notification system across different browsers and devices
+  - Address any compatibility issues with Chrome PC browsers
+  - Prepare for deployment of notification system to production environment
+
+Week 9:
+  - Implement feature: Feedback and Rating system
+  - Design intuitive feedback forms for users to submit ratings
+  - Validate and sanitize user input to prevent malicious attacks
+  - Conduct security testing to identify and mitigate vulnerabilities
+  - Update documentation with security best practices and data protection policies
+
+Week 10:
+  - Implement feature: Admin Panel
+  - Create admin dashboard for managing user accounts and artwork listings
+  - Test admin functionalities for adding, editing, and removing content
+  - Conduct accessibility audit to ensure platform complies with WCAG standards
+  - Provide documentation for admin panel usage and permissions hierarchy
+
+Week 11:
+  - Implement feature: Responsive Design optimization
+  - Conduct cross-browser testing to ensure compatibility with major browsers
+  - Fine-tune responsive design for optimal viewing on various devices
+  - Conduct performance testing to identify and address any bottlenecks
+  - Document performance optimization strategies and best practices
+
+Week 12:
+  - Finalize project deployment and readiness for production launch
+  - Conduct final user acceptance testing to validate platform functionality
+  - Prepare for post-launch monitoring and support processes
+  - Update README.md with final deployment instructions and contact information
+  - Celebrate project completion and success of the Digital Art Gallery and Marketplace platform!
+
