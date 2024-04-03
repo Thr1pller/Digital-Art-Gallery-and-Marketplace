@@ -43,6 +43,7 @@ Usage
 To begin, users will register or sign in using their Google account. From there, they can manage their profiles, upload artwork, browse the gallery, or purchase their favorite pieces.
 
 Project Task Decomposition
+
 Week 1 (02/27 - 03/06):
 
 Week 1:
