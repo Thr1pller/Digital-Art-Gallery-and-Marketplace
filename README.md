@@ -53,7 +53,7 @@ To begin, users will register or sign in using their Google account. From there,
 Project Task Decomposition
 
 Week 1:
-  - Implement feature: User Registration with Google OAuth 2.0
+  - Implement feature: User Registration with Google OAuth 2.0 ✔️
   - Set up Azure environment for project deployment
   - Create basic project structure on Github repository ✔️
   - Draft initial version of Getting Started documentation ✔️
