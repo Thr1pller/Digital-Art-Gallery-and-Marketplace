@@ -39,6 +39,7 @@ Architecture
 The platform utilizes a robust .NET backend with C# for server-side logic. The frontend is built to be responsive, ensuring a seamless experience across all device sizes.
 
 Usage
+
 To begin, users will register or sign in using their Google account. From there, they can manage their profiles, upload artwork, browse the gallery, or purchase their favorite pieces.
 
 Project Task Decomposition
