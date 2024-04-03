@@ -8,7 +8,6 @@ Author
 Konstantinov Mykyta
 
 Email: snikitos1805@gmail.com
-
 Telegram: https://t.me/Thr1pller
 Getting Started:
 To run the project, follow next steps:
